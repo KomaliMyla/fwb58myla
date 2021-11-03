@@ -8,3 +8,5 @@
 # Class Chairs 
 # Chair_type(String) Cost(String) Color(Number)
 
+
+
