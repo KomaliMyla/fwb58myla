@@ -8,5 +8,9 @@
 # Class Chairs 
 # Chair_type(String) Cost(String) Color(Number)
 
+<a href="https://fwb58myla.herokuapp.com/Chairs">Chairs page</a>
 
+<a href="https://fwb58myla.herokuapp.com/addmods?rows=3&cols=4">addmods page</a>
+
+<a href="https://fwb58myla.herokuapp.com/selector">selector page</a>
 
